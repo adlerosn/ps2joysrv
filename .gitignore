@@ -1,0 +1,15 @@
+*
+!/.gitignore
+!/README.md
+!/Makefile
+!/joysrv.c
+!/moduleloader.c
+!/moduleloader.h
+!/myoplnetparser.c
+!/myoplnetparser.h
+!/pad.c
+!/pad.h
+!/ps2ipcfg.c
+!/ps2ipcfg.h
+!/ps2ipcfglib.c
+!/ps2ipcfglib.h
